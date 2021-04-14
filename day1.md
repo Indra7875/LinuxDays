@@ -3,40 +3,40 @@
 * Ctrl + D = Close the terminal
 * Ctrl + L = Clear the screen
 
-``` $ sudo snap install software_name```
+``` $ sudo snap install software_name``` <br>
 -- install software from snap-store
 
-``` $ sudo snap remove software_name ```
+``` $ sudo snap remove software_name ``` <br>
 -- It will remove (uninstall) given software
 
-```$ echo hi```
+```$ echo hi``` <br>
 -- It will print the given word
 
-```$ cal```
+```$ cal``` <br>
 -- Open calendar
 
-```$ cal 2021```
+```$ cal 2021``` <br>
 -- Open whole year calendar
 
-```$ cal -y```
+```$ cal -y``` <br>
 -- Open whole year calendar
 
-```$ date```
+```$ date``` <br>
 -- gives date with time
 
-```$ history```
+```$ history``` <br>
 -- It will display all command history
 
-```$ !number_command```
+```$ !number_command``` <br>
 -- It will execute the given number of command.
 
-```$ !!```
+```$ !!``` <br>
 -- It will execute previous command.
 
-```$ history -c; history -w```
+```$ history -c; history -w``` <br>
 -- It will clear the history
 
-```$ exit```
+```$ exit``` <br>
 -- It will close the terminal
 
 -- commands are just text type in terminal
