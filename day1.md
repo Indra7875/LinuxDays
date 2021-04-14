@@ -39,11 +39,11 @@
 ```$ exit``` <br>
 -- It will close the terminal
 
--- commands are just text type in terminal
--- commands are interpreted by shell.
--- different shell can interpret the same text in different ways.'
--- The terminal is window to shell.
--- Bonus Point : Commands are case-sensitive.
+-- commands are just text type in terminal  <br>
+-- commands are interpreted by shell. <br>
+-- different shell can interpret the same text in different ways. <br>
+-- The terminal is window to shell. <br>
+-- Bonus Point : Commands are case-sensitive. <br>
   
 
  
