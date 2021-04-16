@@ -39,6 +39,9 @@
 ```$ exit``` <br>
 -- It will close the terminal
 
+----
+
+* Summary : <br>
 -- commands are just text type in terminal  <br>
 -- commands are interpreted by shell. <br>
 -- different shell can interpret the same text in different ways. <br>
