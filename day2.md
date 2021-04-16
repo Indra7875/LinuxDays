@@ -23,7 +23,9 @@ $ date --universal
 ```
 -- It will shows universal date
 -- (long-form command gives '--option')
+
 ----
+
 * Summary : <br>
 -- command structure : commandName -options/--options input <br>
       -- commandName -option1 -option2 input1 input2 <br>
