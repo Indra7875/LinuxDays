@@ -19,7 +19,7 @@
 -- Open whole year calendar
 
 ```$ cal -y``` <br>
--- Open whole year calendar
+-- Open current year calendar
 
 ```$ date``` <br>
 -- gives date with time
