@@ -1,5 +1,5 @@
 ﻿
-### Day2 <br>
+### Day2 
 -- Command structure :
 ```
 $ commandName -options/--options input 
@@ -24,9 +24,9 @@ $ date --universal
 -- It will shows universal date
 -- (long-form command gives '--option')
 
-* command structure : commandName -options/--options input 
-      -- commandName -option1 -option2 input1 input2
-      -- commandName --option1 --option2 input1 input2
+* command structure : commandName -options/--options input <br>
+      -- commandName -option1 -option2 input1 input2 <br>
+      -- commandName --option1 --option2 input1 input2 <br>
 *  commandName need to be on the shell's search path.
 *  command operates on input
 *  options modify commands behavior. 
