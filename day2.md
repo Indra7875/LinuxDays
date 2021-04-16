@@ -31,7 +31,7 @@ $ date --universal
       -- commandName -option1 -option2 input1 input2 <br>
       -- commandName --option1 --option2 input1 input2 <br>
 --  commandName need to be on the shell's search path. <br>
--- command operates on input <br
+-- command operates on input <br>
 --  options modify commands behavior. <br>
 
 
