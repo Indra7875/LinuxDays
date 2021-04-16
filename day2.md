@@ -30,8 +30,8 @@ $ date --universal
 -- command structure : commandName -options/--options input <br>
       -- commandName -option1 -option2 input1 input2 <br>
       -- commandName --option1 --option2 input1 input2 <br>
---  commandName need to be on the shell's search path.
--- command operates on input
---  options modify commands behavior. 
+--  commandName need to be on the shell's search path. <br>
+-- command operates on input <br
+--  options modify commands behavior. <br>
 
 
