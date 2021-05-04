@@ -41,6 +41,7 @@ $ which date cal
 -- It will display the location of given input command.
 
 #### Command Synopsis :
+
 |      Section     	|                              Meaning                              	|
 |:----------------:	|:-----------------------------------------------------------------:	|
 |      [THING]     	|                         THING is optional.                        	|
@@ -48,6 +49,7 @@ $ which date cal
 |     THING ...    	|                THING can be repeated (limitlessly)                	|
 | THING1 \| THING2 	|                  Use THING1 OR THING2. Not Both.                  	|
 |      *THING*     	| [Notice the italic] Replace *THING* with whatever is appropriate. 	|
+
 
 ```
 $ help cd
