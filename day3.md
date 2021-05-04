@@ -45,7 +45,7 @@ $ which date cal
 |      Section     	|                              Meaning                              	|
 |:----------------:	|:-----------------------------------------------------------------:	|
 |      [THING]     	|                         THING is optional.                        	|
-|      <THING>     	|                   THING is mandatory (required)                   	|
+|    < THING >     	|                   THING is mandatory (required)                   	|
 |     THING ...    	|                THING can be repeated (limitlessly)                	|
 | THING1 \| THING2 	|                  Use THING1 OR THING2. Not Both.                  	|
 |      *THING*     	| [Notice the italic] Replace *THING* with whatever is appropriate. 	|
