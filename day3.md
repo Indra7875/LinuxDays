@@ -18,7 +18,7 @@
 -- In man page anything under '<>' is mandatory. <br>
 -- In man page if '|' (pipe character) is there then it work as 'OR' operation. <br>
 -- In man page if ... (ellipsis) is there then it will take more than one input. <br>
--- When you making long form option the words separated in below structure. <br>
+-- When you making long form option the words separated in below structure. <br> <br>
   ```
   $ ls -l --human-readable
   ```
