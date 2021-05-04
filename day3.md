@@ -13,12 +13,12 @@
 |    8    	|     System Administration     	|                     Commands that require root or other administrative  privileges to use.                     	|
 
 * __Note :__
--- Sections 1,5 and 8 are what you likely use most often.
--- In man page if something in '[ ]' then it is optional.
--- In man page anything under '<>' is mandatory.
--- In man page if '|' (pipe character) is there then it work as 'OR' operation.
--- In man page if ... (ellipsis) is there then it will take more than one input. 
--- When you making long form option the words separated in below structure.
+-- Sections 1,5 and 8 are what you likely use most often. <br>
+-- In man page if something in '[ ]' then it is optional. <br>
+-- In man page anything under '<>' is mandatory. <br>
+-- In man page if '|' (pipe character) is there then it work as 'OR' operation. <br>
+-- In man page if ... (ellipsis) is there then it will take more than one input. <br>
+-- When you making long form option the words separated in below structure. <br>
   ```
   $ ls -l --human-readable
   ```
