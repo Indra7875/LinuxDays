@@ -12,7 +12,7 @@
 |    7    	|         Miscellaneous         	|                   Overviews of miscellaneous topics such as protocols, filesystem and so on.                   	|
 |    8    	|     System Administration     	|                     Commands that require root or other administrative  privileges to use.                     	|
 
-* __Note :__
+* __Note :__ <br>
 -- Sections 1,5 and 8 are what you likely use most often. <br>
 -- In man page if something in '[ ]' then it is optional. <br>
 -- In man page anything under '<>' is mandatory. <br>
