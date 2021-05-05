@@ -1,7 +1,7 @@
 ﻿
 
 
-### day4
+### Day4
 
 ### Command Input + Output
 * There are two ways to get data into a command and two ways to get data out.
